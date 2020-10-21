@@ -1,0 +1,135 @@
+body { margin:0; font-family: helvetica}
+h1,h2,h3,h4,h5,h6{color: dodgerblue}
+	p{ color: #666;font-size: 14px;
+    line-height: 19px}
+	.stable_width{width:960px; margin:0 auto;display:block;overflow:hidden}
+	.header_area{background: #ddddee none repeat scroll 0 0;}	
+	.header {
+		
+	}	
+	.logo {float: left;
+    width: 60%;display:block;overflow:hidden}	
+	.logo img {float: left;
+    padding-bottom: 15px;
+    padding-top: 15px;width: 80px;height: 60px;}		
+	.social_icons {display: block;
+    float: right;
+    width: 40%;overflow:hidden;padding-top: 42px}
+    .social_icons ul{list-style: outside none none;display:inline;float:right}	
+    .social_icons ul li{float: left;
+    list-style: outside none none;
+    padding-left: 10px}	
+	.intro_area {background: #e8e8e8 none repeat scroll 0 0}	
+	.intro_left {float: left;
+    width: 72%}	
+	.intro_top {}	
+	.intro_top h1{font-size: 26px;
+    font-weight: normal;
+    line-height: 35px;color: #4c4c4c}	
+	.intro_bottom {float: left;
+    width: 100%;padding-bottom: 10px;background: #f6f6f6 none repeat scroll 0 0}
+    .intro_right {float: right;width:26%}
+    .intro_right img{padding-top: 32px;}	
+	.feature_title {}	
+	.feature_title h2{background:cadetblue;
+    color: white;
+    font-style: italic;
+    font-weight: normal;margin-top: 0;
+    padding: 10px 10px 10px 7px}	
+	.feature_list {float: left;
+    width: 54%}	
+	.feature_list ul{float: left;
+    list-style: outside none none;
+    padding: 0 0 0 15px;
+    width: 61%}	
+	.feature_list ul li{ background: rgba(0, 0, 0, 0) url("image/ok.jpg") no-repeat scroll 0 0;
+    color: #666;
+    font-size: 14px;
+    line-height: 32px;
+    padding-left: 28px}
+	.feature_image {float: right;
+    padding-right: 19px;
+    width: 34%}
+	
+	.content_area {}	
+	.content_top { border: 1px solid #ddd;
+    float: left;
+    margin-top: 45px;
+    padding-left: 20px;
+    padding-top: 11px;}	
+	.content_top_left {float: left;
+    width: 64%}	
+	.content_top_left h2{font-size: 21px;
+    font-weight: normal;padding-right: 9px}	
+	.content_top_left p{}	
+	.chat_box_text {border: 1px solid #ddd;
+    float: right;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 13px;
+    width: 90%}	
+	.chat_box_text img{margin-left: -49px;
+    margin-top: -29px;
+    position: absolute}	
+	.chat_box_text p{}	
+	.author_name {font-size: 12px;
+    font-weight: bold;
+    padding-right: 10px;
+    text-align: right}	
+	.content_top_right {float: right;
+    padding-top: 13px;
+    width: 35%;}
+	.content_top_right img{}	
+	.content_bottom {display: block;
+    float: left;
+    overflow: hidden;
+    padding-top: 25px;
+    text-align: center;
+    width: 100%}	
+	.testimonial_heading {}	
+	.testimonial_heading h1{background: rgba(0, 0, 0, 0) url("image/chat.jpeg") no-repeat scroll 0 0;
+    font-size: 25px;
+    font-weight: normal;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    padding-left: 60px;
+    padding-top: 6px;
+    width: 50%}	
+	.testimonial_content {clear: both;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 35px;
+    padding-top: 24px;
+    width: 81%}
+	.testimonial_content p{margin: 0 auto;
+    width: 70%}	
+	.qoute_left {float: left;
+    margin-top: -23px}	
+	.qoute_right {float: right;
+    margin-top: -10px}	
+	.bye_now {clear: both;
+    padding-bottom: 40px;
+    padding-top: 20px}
+	.footer_area {background: #ddddee none repeat scroll 0 0;}	
+	.footer {}	
+	.footer_left{float: left;
+    width: 47%}	
+	.footer_left h3{font-weight: normal;
+    padding-top: 15px;color:#232323}
+	.copyright {border-top: 1px solid #ffffff;
+    padding-top: 10px}	
+	.copyright p{font-size: 11px;
+    margin: 0;
+    padding: 0}	
+	.footer_right {float: right;
+    width: 23%}	
+	.footer_right h3{font-weight: normal;
+    padding-top: 15px; color:#232323}	
+	.footer_right ul{list-style: outside none none;
+    padding: 0px; float:left}	
+	.footer_right ul li{    display: inline;
+    padding-left: 6px}	
+	. {}	
+	. {}	
+	. {}	
+	. {}	
